@@ -1,19 +1,18 @@
 MOMENTO 1 -------
-- Affordance
+# Affordance
   É o relacionamento entre as propriedades do objeto e as capacidades do agente de determinar intuitivamente, 
   ou baseado em experiências anteriores, como o objeto pode ser usado, sem necessidade de explicações, rótulos ou instruções, e 
   podendo ser Explicita ou Metafórica.
   Como o ícone da lupa na barra de pesquisa, que remete a ação de buscar, pesquisar, encontrar algo.
-- Metáforas
+# Metáforas
   
-- IHC
+# IHC
   
-- Arquitetura de Informação
+# Arquitetura de Informação
   
-- Visual Design
+# Visual Design
 
 
-
-
-
-
+MOMENTO 2 ---
+  #Usabilidade - fácil de aprender -> o meu projeto é bem intuitivo, não tem muito segredo para usá-lo.
+ 
