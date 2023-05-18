@@ -19,7 +19,8 @@ Foco na estética ; utiliza teoria de cores, tipografia, organização visual e 
 
 ### MOMENTO 2 
   ## Usabilidade  
-- Eficácia
+## Eficácia:
+
 Refere-se a precisão com que os usuários irão completar seus objetivos.Mesmo com os anúncios que chamam a atenção dos usuários, o site é bem preciso, pois assim que o usuário digita a sua requisição é enviada imediatamente com apenas 1 click.
 ## Eficiência	
  rápido o usuário consegue cumprir uma tarefa utilizando a interface projetada?
