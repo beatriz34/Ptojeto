@@ -18,8 +18,8 @@
 	A logo em formato de “b”  lembra muito o site que se chama Blin, o que acaba se tornando uma característica única do site, sua marca.
 
 ### MOMENTO 2 
-  ### Usabilidade  
-	 Eficácia
+  ## Usabilidade  
+  Eficácia
 	Refere-se a precisão com que os usuários irão completar seus objetivos.
 	Mesmo com os anúncios que chamam a atenção dos usuários, o site é bem preciso, pois assim que o usuário digita a sua requisição é enviada imediatamente com apenas 1 click.
 ## Eficiência	
