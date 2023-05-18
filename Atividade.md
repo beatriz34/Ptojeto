@@ -14,16 +14,15 @@
   É apresentada uma arquitetura bem simples e direta, não tem muita enrolação para você poder buscar o que deseja, mesmo com os anúncios que acabam poluindo um pouco da tela.
 
 ### Visual Design
-	Foco na estética ; utiliza teoria de cores, tipografia, organização visual e outras.
-	A logo em formato de “b”  lembra muito o site que se chama Blin, o que acaba se tornando uma característica única do site, sua marca.
+Foco na estética ; utiliza teoria de cores, tipografia, organização visual e outras.
+ logo em formato de “b”  lembra muito o site que se chama Blin, o que acaba se tornando uma característica única do site, sua marca.
 
 ### MOMENTO 2 
   ## Usabilidade  
-  Eficácia
-	Refere-se a precisão com que os usuários irão completar seus objetivos.
-	Mesmo com os anúncios que chamam a atenção dos usuários, o site é bem preciso, pois assim que o usuário digita a sua requisição é enviada imediatamente com apenas 1 click.
+- Eficácia
+Refere-se a precisão com que os usuários irão completar seus objetivos.Mesmo com os anúncios que chamam a atenção dos usuários, o site é bem preciso, pois assim que o usuário digita a sua requisição é enviada imediatamente com apenas 1 click.
 ## Eficiência	
-Quão rápido o usuário consegue cumprir uma tarefa utilizando a interface projetada?
+ rápido o usuário consegue cumprir uma tarefa utilizando a interface projetada?
 
 Como o site é simples, sem muitas imagens ou itens que pese seu carregamento, ele acaba sendo bastante eficiente.
 
